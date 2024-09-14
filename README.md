@@ -4,11 +4,11 @@
 
 В этом разделе есть 3 Wiki страницы:
 
-"Часть 1. Установка Python" - инструкция по установке Python на ОС Windows
+"Часть 1. [Установка Python"] (https://github.com/AnastasiaMoshkova/Python-BMT/wiki/%D0%A7%D0%B0%D1%81%D1%82%D1%8C-1.-%D0%9A%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-python%3F) - инструкция по установке Python на ОС Windows
 
-"Часть 2. Запуск среды для работы с Python" - знакомство со средами програмирвоания на Python
+"Часть 2. [Запуск среды для работы с Python"] (https://github.com/AnastasiaMoshkova/Python-BMT/wiki/%D0%A7%D0%B0%D1%81%D1%82%D1%8C-2.-%D0%97%D0%B0%D0%BF%D1%83%D1%81%D0%BA-%D1%81%D1%80%D0%B5%D0%B4%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D1%81-python) - знакомство со средами програмирвоания на Python
 
-"Часть 3. Git репозиторий" - простые действия с git репозиторием
+"Часть 3. [Git репозиторий"] (https://github.com/AnastasiaMoshkova/Python-BMT/wiki/%D0%A7%D0%B0%D1%81%D1%82%D1%8C-3.-Git-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9) - простые действия с git репозиторием
 
 Перед началом курса вам необходимо будет пройти небольшой тест по основам Python *[Входое тестирование](https://forms.gle/aVzFzRDrrPjTsHmMA)*. 
 
