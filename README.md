@@ -27,9 +27,7 @@
 |№ Занятия|Дата|Тема|Ссылка на collab|
 |:-:|:-:|:-:|:-:|
 |1|07.09.24|Знакомство с языком, основными конструкциями и базовыми типами. Установка Python и запуск первой программы в различных средах.|[Семинар](https://colab.research.google.com/drive/1zlRIeQyjYM3bBHxYDvPNZAsqEjwblvN-?usp=drive_link)
-
 [ЛР](https://colab.research.google.com/drive/1OElb4CduXPCf73pO9ezJZjJFqJeSL-bC?usp=drive_link)|
 |2|14.09.24|Циклы в программировании. Функции. Локальные и глобальные переменные. Возврат значения из функции. Оператор return. Параметры и аргументы функции.|[Семинар](https://colab.research.google.com/drive/1AiPDwdmg4LGnTQcc-g-IW1s5XmBKTLcS?usp=drive_link)
-
 [ЛР](https://colab.research.google.com/drive/16Y5LCwXg7k-yzK836yBPYeG0clw_RWLQ?usp=drive_link)|
 |3|21.09.24|Функции. Локальные и глобальные переменные. Передача аргументов. Строки. Списки. Кортежи. Множества.||
