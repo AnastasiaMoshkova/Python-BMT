@@ -19,7 +19,7 @@
 |1|07.09.24|Знакомство с языком, основными конструкциями и базовыми типами. Установка Python и запуск первой программы в различных средах.|[Семинар](https://colab.research.google.com/drive/1zlRIeQyjYM3bBHxYDvPNZAsqEjwblvN-?usp=drive_link)|[ЛР](https://colab.research.google.com/drive/1OElb4CduXPCf73pO9ezJZjJFqJeSL-bC?usp=drive_link)|
 |2|14.09.24|Циклы в программировании. Оператор *for*, *while*. Строки. Списки. Функция *range*.Условные конструкции. Конструкция if-else, *elif*.|[Семинар](https://colab.research.google.com/drive/1AiPDwdmg4LGnTQcc-g-IW1s5XmBKTLcS?usp=drive_link)|[ЛР](https://colab.research.google.com/drive/16Y5LCwXg7k-yzK836yBPYeG0clw_RWLQ?usp=drive_link)|
 |3|21.09.24|Функции. Локальные и глобальные переменные. Возврат значения из функции. Оператор return. Параметры и аргументы функции. Локальные и глобальные переменные. Передача аргументов. Строки. Списки. Кортежи. Множества.|[Семинар](https://colab.research.google.com/drive/1c8NJTuYf2hz6a_0nfdD7QQybVY7uHuiJ?usp=drive_link)|[ЛР](https://colab.research.google.com/drive/1ikgeLd3owzEINzD_8qKx_3ofsGZoiCb3?usp=drive_link)|
-|4|28.09.24|Словари. Работа с файлами.|||
+|4|28.09.24|Словари. Работа с файлами.|[Семинар](https://colab.research.google.com/drive/13njZeIDw99hAZp3F97bstlz8QvSFHK0t?usp=drive_link)|[ЛР](https://colab.research.google.com/drive/1qptbqjGxtHQHBVVZxXhdmUmXWRDFrxOj?usp=drive_link)|
 |5|05.10.24|Исключения. Функциональный стиль в Python (на примере map()). Lambda. Итераторы и генераторы. Обзор стандартной библиотеки Python 3 и часто используемых сторонних модулей. Регулярные выражения.|||
 |6|12.10.24|Основные понятия ООП. Инкапсуляция. Классы. Декораторы.|||
 |7|19.10.24|Основные понятия ООП. Наследование. Полиморфизм.|||
