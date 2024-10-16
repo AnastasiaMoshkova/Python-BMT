@@ -21,7 +21,7 @@
 |3|21.09.24|Функции. Локальные и глобальные переменные. Возврат значения из функции. Оператор return. Параметры и аргументы функции. Локальные и глобальные переменные. Передача аргументов. Строки. Списки. Кортежи. Множества.|[Семинар](https://colab.research.google.com/drive/1c8NJTuYf2hz6a_0nfdD7QQybVY7uHuiJ?usp=drive_link)|[ЛР](https://colab.research.google.com/drive/1ikgeLd3owzEINzD_8qKx_3ofsGZoiCb3?usp=drive_link)|
 |4|28.09.24|Словари. Работа с файлами.|[Семинар](https://colab.research.google.com/drive/13njZeIDw99hAZp3F97bstlz8QvSFHK0t?usp=drive_link)|[ЛР](https://colab.research.google.com/drive/1qptbqjGxtHQHBVVZxXhdmUmXWRDFrxOj?usp=drive_link)|
 |5|05.10.24|Исключения. Функциональный стиль в Python (на примере map()). Lambda. Итераторы и генераторы. Обзор стандартной библиотеки Python 3 и часто используемых сторонних модулей. Регулярные выражения.|[Семинар](https://drive.google.com/file/d/1aIMSy8E0Kxn2p1Sm8HD1Y-PNkpyExyPA/view?usp=sharing)|[ЛР](https://drive.google.com/file/d/1bF95v0L5kAuLXzKgZlpyG59DACbDP-t1/view?usp=sharing)|
-|6|12.10.24|Основные понятия ООП. Инкапсуляция. Классы. Декораторы.|||
+|6|12.10.24|Основные понятия ООП. Инкапсуляция. Классы. Декораторы.|[Семинар](https://colab.research.google.com/drive/1X-7ChNbcKQjLKjOnq37vYPw7sLRL_nbQ?usp=sharing)|[ЛР](https://colab.research.google.com/drive/10BkR6-mFjDsow49bvJ_5Dkr_YXktldsN?usp=sharing)|
 |7|19.10.24|Основные понятия ООП. Наследование. Полиморфизм.|||
 |8|26.10.24|Pandas. Numpy. Визуализации.|||
 
