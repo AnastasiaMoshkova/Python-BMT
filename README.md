@@ -30,8 +30,8 @@
 Рубежные контроли
 |№ Занятия|Дата|РК|Ссылка|
 |:-:|:-:|:-:|:-:|
-|5|РК1|05.10.24|Пройдено|
-|8|РК2|26.10.24|Пройдено|
+|5|РК1|05.10.24|https://forms.gle/YbojuqSzfGrZWjms8|
+|8|РК2|26.10.24|https://forms.gle/YNzFsAvDo6YQSZWv6|
 
 [Журнал](https://docs.google.com/spreadsheets/d/17NYANh8mS9C8uVzum-RXWvCjE8Ae3WLbf_BX0k8naBs/edit?usp=sharing)
 
