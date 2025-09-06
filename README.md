@@ -16,20 +16,20 @@
 
 |№ Занятия|Дата|Тема|Семинар в collab|ЛР в collab|
 |:-:|:-:|:-:|:-:|:-:|
-|1|07.09.24|Знакомство с языком, основными конструкциями и базовыми типами. Установка Python и запуск первой программы в различных средах.|[Семинар](https://colab.research.google.com/drive/1zlRIeQyjYM3bBHxYDvPNZAsqEjwblvN-?usp=drive_link)|[ЛР](https://colab.research.google.com/drive/1OElb4CduXPCf73pO9ezJZjJFqJeSL-bC?usp=drive_link)|
-|2|14.09.24|Циклы в программировании. Оператор *for*, *while*. Строки. Списки. Функция *range*.Условные конструкции. Конструкция if-else, *elif*.|[Семинар](https://colab.research.google.com/drive/1AiPDwdmg4LGnTQcc-g-IW1s5XmBKTLcS?usp=drive_link)|[ЛР](https://colab.research.google.com/drive/16Y5LCwXg7k-yzK836yBPYeG0clw_RWLQ?usp=drive_link)|
-|3|21.09.24|Функции. Локальные и глобальные переменные. Возврат значения из функции. Оператор return. Параметры и аргументы функции. Локальные и глобальные переменные. Передача аргументов. Строки. Списки. Кортежи. Множества.|[Семинар](https://colab.research.google.com/drive/1c8NJTuYf2hz6a_0nfdD7QQybVY7uHuiJ?usp=drive_link)|[ЛР](https://colab.research.google.com/drive/1ikgeLd3owzEINzD_8qKx_3ofsGZoiCb3?usp=drive_link)|
-|4|28.09.24|Словари. Работа с файлами.|[Семинар](https://colab.research.google.com/drive/13njZeIDw99hAZp3F97bstlz8QvSFHK0t?usp=drive_link)|[ЛР](https://colab.research.google.com/drive/1qptbqjGxtHQHBVVZxXhdmUmXWRDFrxOj?usp=drive_link)|
-|5|05.10.24|Исключения. Функциональный стиль в Python (на примере map()). Lambda. Итераторы и генераторы. Обзор стандартной библиотеки Python 3 и часто используемых сторонних модулей. Регулярные выражения.|[Семинар](https://drive.google.com/file/d/1aIMSy8E0Kxn2p1Sm8HD1Y-PNkpyExyPA/view?usp=sharing)|[ЛР](https://drive.google.com/file/d/1bF95v0L5kAuLXzKgZlpyG59DACbDP-t1/view?usp=sharing)|
-|6|12.10.24|Основные понятия ООП. Инкапсуляция. Классы. Декораторы.|[Семинар](https://colab.research.google.com/drive/1X-7ChNbcKQjLKjOnq37vYPw7sLRL_nbQ?usp=sharing)|[ЛР](https://colab.research.google.com/drive/10BkR6-mFjDsow49bvJ_5Dkr_YXktldsN?usp=sharing)|
-|7|19.10.24|Основные понятия ООП. Наследование. Полиморфизм.|[Семинар](https://drive.google.com/file/d/1a9p4Zh4Rm86amtmqZm1hqzme9srjG-d9/view?usp=sharing)|[ЛР](https://drive.google.com/file/d/17WgPZHlYPejSFKmdLNlYIjApYd9pIYr6/view?usp=sharing)|
-|8|26.10.24|Pandas. Numpy. Визуализации.|[Семинар](https://drive.google.com/file/d/12bAMqevyc452w0a3kM5Rr0ZSkpAJ8P-P/view?usp=sharing)|[ЛР](https://drive.google.com/file/d/1LHxoLHXA0Qinsy6mGxTfrDzVpl6EHT-g/view?usp=sharing)|
+|1|06.09.25|Знакомство с языком, основными конструкциями и базовыми типами. Установка Python и запуск первой программы в различных средах.|[Семинар](https://colab.research.google.com/drive/1zlRIeQyjYM3bBHxYDvPNZAsqEjwblvN-?usp=drive_link)|[ЛР](https://colab.research.google.com/drive/1OElb4CduXPCf73pO9ezJZjJFqJeSL-bC?usp=drive_link)|
+|2|13.09.25|Циклы в программировании. Оператор *for*, *while*. Строки. Списки. Функция *range*.Условные конструкции. Конструкция if-else, *elif*.|[Семинар](https://colab.research.google.com/drive/1AiPDwdmg4LGnTQcc-g-IW1s5XmBKTLcS?usp=drive_link)|[ЛР](https://colab.research.google.com/drive/16Y5LCwXg7k-yzK836yBPYeG0clw_RWLQ?usp=drive_link)|
+|3|20.09.25|Функции. Локальные и глобальные переменные. Возврат значения из функции. Оператор return. Параметры и аргументы функции. Локальные и глобальные переменные. Передача аргументов. Строки. Списки. Кортежи. Множества.|[Семинар](https://colab.research.google.com/drive/1c8NJTuYf2hz6a_0nfdD7QQybVY7uHuiJ?usp=drive_link)|[ЛР](https://colab.research.google.com/drive/1ikgeLd3owzEINzD_8qKx_3ofsGZoiCb3?usp=drive_link)|
+|4|27.09.25|Словари. Работа с файлами.|[Семинар](https://colab.research.google.com/drive/13njZeIDw99hAZp3F97bstlz8QvSFHK0t?usp=drive_link)|[ЛР](https://colab.research.google.com/drive/1qptbqjGxtHQHBVVZxXhdmUmXWRDFrxOj?usp=drive_link)|
+|5|04.10.25|Исключения. Функциональный стиль в Python (на примере map()). Lambda. Итераторы и генераторы. Обзор стандартной библиотеки Python 3 и часто используемых сторонних модулей. Регулярные выражения.|[Семинар](https://drive.google.com/file/d/1aIMSy8E0Kxn2p1Sm8HD1Y-PNkpyExyPA/view?usp=sharing)|[ЛР](https://drive.google.com/file/d/1bF95v0L5kAuLXzKgZlpyG59DACbDP-t1/view?usp=sharing)|
+|6|11.10.25|Основные понятия ООП. Инкапсуляция. Классы. Декораторы.|[Семинар](https://colab.research.google.com/drive/1X-7ChNbcKQjLKjOnq37vYPw7sLRL_nbQ?usp=sharing)|[ЛР](https://colab.research.google.com/drive/10BkR6-mFjDsow49bvJ_5Dkr_YXktldsN?usp=sharing)|
+|7|18.10.25|Основные понятия ООП. Наследование. Полиморфизм.|[Семинар](https://drive.google.com/file/d/1a9p4Zh4Rm86amtmqZm1hqzme9srjG-d9/view?usp=sharing)|[ЛР](https://drive.google.com/file/d/17WgPZHlYPejSFKmdLNlYIjApYd9pIYr6/view?usp=sharing)|
+|8|25.10.25|Pandas. Numpy. Визуализации.|[Семинар](https://drive.google.com/file/d/12bAMqevyc452w0a3kM5Rr0ZSkpAJ8P-P/view?usp=sharing)|[ЛР](https://drive.google.com/file/d/1LHxoLHXA0Qinsy6mGxTfrDzVpl6EHT-g/view?usp=sharing)|
 
 Рубежные контроли
 |№ Занятия|Дата|РК|Ссылка|
 |:-:|:-:|:-:|:-:|
-|5|РК1|05.10.24||
-|8|РК2|26.10.24||
+|5|РК1|_.10.25||
+|8|РК2|_.10.25||
 
 [Журнал](https://docs.google.com/spreadsheets/d/17NYANh8mS9C8uVzum-RXWvCjE8Ae3WLbf_BX0k8naBs/edit?usp=sharing)
 
