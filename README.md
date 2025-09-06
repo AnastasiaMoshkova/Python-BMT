@@ -31,7 +31,7 @@
 |5|РК1|_.10.25||
 |8|РК2|_.10.25||
 
-[Журнал](https://docs.google.com/spreadsheets/d/17NYANh8mS9C8uVzum-RXWvCjE8Ae3WLbf_BX0k8naBs/edit?usp=sharing)
+[Журнал](https://docs.google.com/spreadsheets/d/1i0tM8PyOLLgJWcI4tydyfe3yFquP2pjXKKHfwFqhEGs/edit?usp=sharing)
 
 Полезные ресурсы:
 
