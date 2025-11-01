@@ -28,12 +28,14 @@
 Рубежные контроли
 |№ Занятия|Дата|РК|Ссылка|
 |:-:|:-:|:-:|:-:|
-|5|РК1|04.10.25|https://docs.google.com/forms/d/1ab5SponTSJbBP-A0W0qCUuGW1HMetfm60nG4FHc5mMA/edit?usp=drivesdk|
-|8|РК2|25.10.25|https://docs.google.com/forms/d/1MuSHarZEpZDVP-0Am60OZJvvwK1iHBBLqmz7qc8Mmag/edit?usp=drivesdk|
+|5|РК1|04.10.25||
+|8|РК2|25.10.25||
 
 [Журнал](https://docs.google.com/spreadsheets/d/1i0tM8PyOLLgJWcI4tydyfe3yFquP2pjXKKHfwFqhEGs/edit?usp=sharing)
 
 Полезные ресурсы:
+
+1. https://colab.research.google.com/drive/1Y4rMcBuQ2RP-BR8f0hVJnljEffwPG65I
 
 1. [Как работать с git - целый курс](https://webdevkin.ru/courses/git/start)
 
