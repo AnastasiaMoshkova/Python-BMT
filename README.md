@@ -29,7 +29,7 @@
 |№ Занятия|Дата|РК|Ссылка|
 |:-:|:-:|:-:|:-:|
 |5|РК1|03.10.25||
-|8|РК2|24.10.25||
+|8|РК2|24.10.25|https://forms.gle/LgYHiqVPCbhwXY6W9|
 
 [Журнал](https://docs.google.com/spreadsheets/d/1EJOZS4jSlEKDDNyH-gIviexW3Me6HlSaGOd8WSCx_gk/edit?usp=sharing)
 
